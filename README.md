@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Grand
 
 You can use the [editor on GitHub](https://github.com/87216LiaoXin/grand_4/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
